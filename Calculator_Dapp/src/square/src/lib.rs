@@ -36,7 +36,7 @@ fn process_instruction(
     msg!("Debug output complete.");
 
     let mut math_stuff = MathStuffSquare {
-        value: 2, // Set the input value to 2
+        value: 4, // Set the input value to 2
         square: 0, // The initial square value will be updated later
     };
 
