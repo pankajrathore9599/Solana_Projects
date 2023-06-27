@@ -1,0 +1,1 @@
+/Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/divide/target/sbf-solana-solana/release/divide.so: /Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/divide/src/lib.rs

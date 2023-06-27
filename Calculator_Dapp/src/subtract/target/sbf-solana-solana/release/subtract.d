@@ -1,0 +1,1 @@
+/Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/subtract/target/sbf-solana-solana/release/subtract.so: /Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/subtract/src/lib.rs

@@ -13,7 +13,10 @@
         "deploy": "./scripts/cicd.sh deploy",
         "reset-and-build": "./scripts/cicd.sh reset-and-build",
         "example:sum": "ts-node ./src/client/sum.ts",
-        "example:square": "ts-node ./src/client/square.ts"
+        "example:square": "ts-node ./src/client/square.ts",
+        "example:multiply": "ts-node ./src/client/multiply.ts",
+        "example:subtract": "ts-node ./src/client/subtract.ts",
+        "example:divide": "ts-node ./src/client/divide.ts"
     },
     "dependencies": {
         "@solana/web3.js": "1.77.3",

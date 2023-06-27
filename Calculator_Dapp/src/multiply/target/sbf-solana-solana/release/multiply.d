@@ -1,0 +1,1 @@
+/Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/multiply/target/sbf-solana-solana/release/multiply.so: /Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/multiply/src/lib.rs

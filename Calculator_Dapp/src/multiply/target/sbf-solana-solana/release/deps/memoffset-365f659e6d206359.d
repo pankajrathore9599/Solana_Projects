@@ -1,0 +1,10 @@
+/Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/multiply/target/sbf-solana-solana/release/deps/memoffset-365f659e6d206359.rmeta: /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/lib.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/raw_field.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/offset_of.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/span_of.rs
+
+/Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/multiply/target/sbf-solana-solana/release/deps/libmemoffset-365f659e6d206359.rlib: /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/lib.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/raw_field.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/offset_of.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/span_of.rs
+
+/Users/pankajrathore/Desktop/Github/Solana_Projects/Calculator_Dapp/src/multiply/target/sbf-solana-solana/release/deps/memoffset-365f659e6d206359.d: /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/lib.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/raw_field.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/offset_of.rs /Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/span_of.rs
+
+/Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/lib.rs:
+/Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/raw_field.rs:
+/Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/offset_of.rs:
+/Users/pankajrathore/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.9.0/src/span_of.rs:
